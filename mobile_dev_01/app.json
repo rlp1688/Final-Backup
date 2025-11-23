@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "mobile_dev_01",
+    "slug": "mobile_dev_01",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    
+      "expo": {
+        "android": {
+          "config": {
+            "googleMaps": {
+              "apiKey": "AIzaSyB4qrY6vO8Z1X3OFNr8N0evcaWVJA0srKY"
+            }
+          }
+        }
+      },
+    
+
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
